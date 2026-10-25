@@ -44,7 +44,7 @@ Hugging Face Hub on first use.
 Python 3.10 or newer is recommended.
 
 ```bash
-git clone https://github.com/<your-account>/FedOSSA.git
+git clone https://github.com/atikmahabub42/FedOSSA.git
 cd FedOSSA
 python -m venv .venv
 # Windows: .venv\Scripts\activate      Linux/macOS: source .venv/bin/activate
@@ -78,7 +78,7 @@ memory is released between models.
 
 **Resuming.** Every finished run is written immediately as one CSV row. If a run is
 interrupted (Ctrl+C, crash, shutdown), run the same command again: finished runs are
-skipped and only the interrupted run starts over. Do not delete the result CSVs, since
+skipped, and only the interrupted run starts over. Do not delete the result CSVs, since
 they are the record of what has finished.
 
 ## Default configuration
@@ -205,6 +205,6 @@ grant RGPIN-2024-06358.
 
 ## License
 
-Add a license of your choice (for example MIT or Apache 2.0) as `LICENSE` before making
-the repository public. The datasets and model weights are subject to their own licenses on
-the Hugging Face Hub.
+Released under the MIT License, Copyright (c) 2026 Atik Mahabub, Shervin Vakili, and 
+Zakaria Abou El Houda. The datasets and model weights are subject to their own 
+licenses on the Hugging Face Hub.

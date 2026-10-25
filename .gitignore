@@ -1,0 +1,15 @@
+# experiment outputs and caches
+results/
+hf_cache/
+*.bak
+*_recovered_*.csv
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

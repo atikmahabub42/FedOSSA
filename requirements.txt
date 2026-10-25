@@ -1,0 +1,8 @@
+# Install PyTorch first, matching your GPU (see README.md), e.g. for RTX 50-series:
+#   python -m pip install torch --index-url https://download.pytorch.org/whl/cu128
+transformers>=4.45
+peft>=0.11
+accelerate>=0.30
+datasets>=2.19
+numpy>=1.26
+matplotlib>=3.8

@@ -190,7 +190,7 @@ The paper is under review. Until it is published, please cite:
 
 ```bibtex
 @misc{mahabub2026fedossa,
-  author = {Mahabub, Atik and Vakili, Shervin},
+  author = {Atik Mahabub, Shervin Vakili, and Zakaria Abou El Houda},
   title  = {{FedOSSA}: Noise Calibrated Spectral Aggregation with Secure Aggregation
             for Federated Fine Tuning of Large Language Models},
   note   = {Under review},
